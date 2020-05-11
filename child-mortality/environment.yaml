@@ -1,0 +1,11 @@
+name: beating-child-mortality
+channels:
+  - conda-forge
+dependencies:
+  - time
+  - wget
+  - pandas_flavor
+  - numpy
+  - pandas
+  - bokeh
+  - ipywidgets
