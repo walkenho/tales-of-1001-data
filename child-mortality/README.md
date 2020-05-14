@@ -1,4 +1,4 @@
-# Beating Child Mortality
+# Beating Child Mortality - Interactibe Bubblegraph Visualizations
 
 In 2009 Hans Rosling -founder of Gapminder- gave a TED talk about the world-wide evolution of child mortality since the 1960s. He came to the conclusion that at that time, we were on a good way to beating child mortality, even though we were not quite there yet. He evidenced his statements by showing the evolution of child mortality vs female fertility using his famous bubble graphs.
 
